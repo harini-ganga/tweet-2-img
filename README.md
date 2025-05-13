@@ -26,11 +26,3 @@ Twimage is a simple web app made with **NextJS, Twitter API and Chakra UI** that
 ## Todo
 - Ability to select ratio for the output image (1:1, 9:16).
 - Add more customisation options (suggestions welcome).
-
-## Author
-[Prince Kumar Singh](http://www.twitter.com/drkPrns)
-
-
-## Disclaimer
-This is not affiliated to Twitter in any way. It's just a side project made for learning purposes. No copyright infringement intended.
-
