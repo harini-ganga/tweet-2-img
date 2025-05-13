@@ -13,7 +13,7 @@ const Header = ({bringTweet}) => {
 	        <Box className='i' my="12" align="center">
 	          <form onSubmit={bringTweet} autoComplete='off'>
 	                <InputGroup maxW='90vw'>
-	                    <Input name='tweetURL' placeholder="https://x.com/AloysJehwin/status/1922323555632447739" />
+	                    <Input name='tweetURL' placeholder="https://x.com/Harini/status/1922323555632447739" />
 	                    <InputRightElement>
 	                    	<button type='submit'>
 	                    		<SearchIcon fontSize={font_size} color="blue.500" />
